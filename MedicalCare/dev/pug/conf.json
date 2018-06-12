@@ -1,0 +1,16 @@
+{
+  "name" : "Site Name",
+  "path" : {
+    "css"  : "./assets/css",
+    "js"   : "./assets/js",
+    "img"  : "./assets/img",
+    "root" : "."
+  },
+  "cms" : false,
+  "cmspath" : {
+    "css"  : "./custom-theme/css",
+    "js"   : "./custom-theme/js",
+    "img"  : "[template_url]/assets/img",
+    "root" : "[site_url]"
+  }
+}
